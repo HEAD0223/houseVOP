@@ -7,7 +7,6 @@ This project represents a website for a residential complex, designed with HTML,
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Folder Structure
 
@@ -41,6 +40,3 @@ If you would like to contribute to this project, please follow these steps:
 3. Commit your changes: git commit -m 'Add some feature'
 4. Push to the branch: git push origin feature-name
 5. Submit a pull request.
-
-## License
-This project is licensed under the MIT License.
