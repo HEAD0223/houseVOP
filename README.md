@@ -19,8 +19,8 @@ This project represents a website for a residential complex, designed with HTML,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/HouseVOP.git
-cd HouseVOP
+git clone https://github.com/your-username/houseVOP.git
+cd houseVOP
 ```
 
 2. Open the index.html file in a web browser to view the website.
