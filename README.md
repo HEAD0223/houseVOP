@@ -24,10 +24,14 @@ git clone https://github.com/your-username/HouseVOP.git
 cd HouseVOP
 ```
 
-Open the index.html file in a web browser to view the website.
+2. Open the index.html file in a web browser to view the website.
 
 ## Screenshots
-Include some screenshots or images here to showcase the appearance of your website.
+![photo_1](https://github.com/HEAD0223/houseVOP/assets/43917535/138e47b4-bd50-4a5f-9427-3b2ef4dff964)
+![photo_2](https://github.com/HEAD0223/houseVOP/assets/43917535/5f03e38d-86e7-4d43-826b-a5ccb4496002)
+![photo_3](https://github.com/HEAD0223/houseVOP/assets/43917535/90b5ceeb-273b-4e4f-a2e8-36cd33557d04)
+![photo_4](https://github.com/HEAD0223/houseVOP/assets/43917535/be4cf25c-dc5c-4736-bdf1-877f7991087d)
+![photo_5](https://github.com/HEAD0223/houseVOP/assets/43917535/6fac8771-6123-402d-a7ad-6d3dc87041b5)
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
