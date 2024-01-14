@@ -1,6 +1,6 @@
 # HouseVOP Project
 
-This project represents a website for a residential complex, designed with HTML, CSS, and JavaScript. It includes sections for information about the complex, its surroundings, available apartments, etc.
+This project represents a website for a residential complex, designed with HTML, CSS, and JavaScript. It includes sections for information about the complex, its surroundings, available apartments, etc. Used SCSS
 
 ## Table of Contents
 - [Folder Structure](#folder-structure)
