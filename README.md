@@ -19,7 +19,7 @@ This project represents a website for a residential complex, designed with HTML,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/houseVOP.git
+git clone https://github.com/HEAD0223/houseVOP.git
 cd houseVOP
 ```
 
