@@ -1,18 +1,24 @@
 # HouseVOP Project
 
+![Landing](https://img.shields.io/badge/Landing-HouseVOP-brightgreen)
+![Work Project](https://img.shields.io/badge/Project-Work-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Working on](https://img.shields.io/badge/Working_on-Chrome-informational?logo=google-chrome&logoColor=white)](https://head0223.github.io/houseVOP/)
+
 This project represents a website for a residential complex, designed with HTML, CSS, and JavaScript. It includes sections for information about the complex, its surroundings, available apartments, etc. Used SCSS
 
 ## Table of Contents
-- [Folder Structure](#folder-structure)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+
+-  [Folder Structure](#folder-structure)
+-  [Usage](#usage)
+-  [Screenshots](#screenshots)
+-  [Contributing](#contributing)
 
 ## Folder Structure
 
-- **css:** Contains the styles for the website.
-- **img:** Holds all the images used in the project.
-- **js:** Includes the JavaScript file for additional functionality.
+-  **css:** Contains the styles for the website.
+-  **img:** Holds all the images used in the project.
+-  **js:** Includes the JavaScript file for additional functionality.
 
 ## Usage
 
@@ -26,6 +32,7 @@ cd houseVOP
 2. Open the index.html file in a web browser to view the website.
 
 ## Screenshots
+
 ![photo_1](https://github.com/HEAD0223/houseVOP/assets/43917535/138e47b4-bd50-4a5f-9427-3b2ef4dff964)
 ![photo_2](https://github.com/HEAD0223/houseVOP/assets/43917535/5f03e38d-86e7-4d43-826b-a5ccb4496002)
 ![photo_3](https://github.com/HEAD0223/houseVOP/assets/43917535/90b5ceeb-273b-4e4f-a2e8-36cd33557d04)
@@ -33,6 +40,7 @@ cd houseVOP
 ![photo_5](https://github.com/HEAD0223/houseVOP/assets/43917535/6fac8771-6123-402d-a7ad-6d3dc87041b5)
 
 ## Contributing
+
 If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
